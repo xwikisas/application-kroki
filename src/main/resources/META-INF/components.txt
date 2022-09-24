@@ -1,0 +1,2 @@
+com.xwiki.kroki.internal.KrokiClassDiagramMacro
+com.xwiki.kroki.internal.KrokiTagCloudMacro
